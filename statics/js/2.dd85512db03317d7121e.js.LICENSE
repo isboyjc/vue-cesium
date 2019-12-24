@@ -1,0 +1,24 @@
+/**
+ * vue-cesium - https://github.com/zouyaoji/vue-cesium
+ * Vue 2.x components for CesiumJS.
+ *
+ * @package VueCesium
+ * @author zouyaoji <370681295@qq.com>
+ * @version 2.0.3
+ * @license MIT
+ * @homepage https://zouyaoji.top/vue-cesium
+ * @copyright (c) 2018-2019, zouyaoji <370681295@qq.com>
+ */
+
+/**
+  * vue-class-component v7.0.1
+  * (c) 2015-present Evan You
+  * @license MIT
+  */
+
+/*!
+ * merge-descriptors
+ * Copyright(c) 2014 Jonathan Ong
+ * Copyright(c) 2015 Douglas Christopher Wilson
+ * MIT Licensed
+ */
